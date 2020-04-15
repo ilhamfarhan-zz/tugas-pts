@@ -1,0 +1,14 @@
+C:\Users\ilham\OneDrive\Dokumen\RPL\visual studio\resikocorona\resikocorona\bin\Debug\resikocorona.exe.config
+C:\Users\ilham\OneDrive\Dokumen\RPL\visual studio\resikocorona\resikocorona\bin\Debug\resikocorona.exe
+C:\Users\ilham\OneDrive\Dokumen\RPL\visual studio\resikocorona\resikocorona\bin\Debug\resikocorona.pdb
+C:\Users\ilham\OneDrive\Dokumen\RPL\visual studio\resikocorona\resikocorona\bin\Debug\resikocorona.xml
+C:\Users\ilham\OneDrive\Dokumen\RPL\visual studio\resikocorona\resikocorona\obj\Debug\resikocorona.vbprojAssemblyReference.cache
+C:\Users\ilham\OneDrive\Dokumen\RPL\visual studio\resikocorona\resikocorona\obj\Debug\resikocorona.Form1.resources
+C:\Users\ilham\OneDrive\Dokumen\RPL\visual studio\resikocorona\resikocorona\obj\Debug\resikocorona.Resources.resources
+C:\Users\ilham\OneDrive\Dokumen\RPL\visual studio\resikocorona\resikocorona\obj\Debug\resikocorona.vbproj.GenerateResource.cache
+C:\Users\ilham\OneDrive\Dokumen\RPL\visual studio\resikocorona\resikocorona\obj\Debug\resikocorona.vbproj.CoreCompileInputs.cache
+C:\Users\ilham\OneDrive\Dokumen\RPL\visual studio\resikocorona\resikocorona\obj\Debug\resikocorona.exe
+C:\Users\ilham\OneDrive\Dokumen\RPL\visual studio\resikocorona\resikocorona\obj\Debug\resikocorona.xml
+C:\Users\ilham\OneDrive\Dokumen\RPL\visual studio\resikocorona\resikocorona\obj\Debug\resikocorona.pdb
+C:\Users\ilham\OneDrive\Dokumen\RPL\visual studio\resikocorona\resikocorona\obj\Debug\resikocorona.Form2.resources
+C:\Users\ilham\OneDrive\Dokumen\RPL\visual studio\resikocorona\resikocorona\obj\Debug\resikocorona.Form3.resources
